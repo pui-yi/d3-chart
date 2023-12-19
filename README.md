@@ -13,3 +13,6 @@ Present a tooltip when the user moves the mouse over each bar like what is being
 <br><br>
 
 ## Screenshot:
+<img width="500" alt="Screenshot of the bar chart" src="https://github.com/pui-yi/d3-chart/assets/153875169/58337539-1d14-435b-8d29-8f340ffd2814">
+
+<img width="500" alt="Screenshot of the bar chart with tooltip" src="https://github.com/pui-yi/d3-chart/assets/153875169/9884190c-437e-4b08-8c0f-256852f118e7">
