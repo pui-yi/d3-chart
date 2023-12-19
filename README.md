@@ -1,4 +1,15 @@
-# d3-chart
-Working with D3.js
+# Working with D3.js 
+Here is the [URL](hw3.html) to my bar chart.
+<br><br>
 
-Here is the [URL](hw3.html) to my project
+## Objective:
+To present a bar chart to the coordinator of the Department of a college, related to the number of students your department had from Spring 16 to Fall 18.
+<br><br>
+
+## Tasks:
+File hw3.html will need to present the bar graphic where the height of the bars would be related to the number of students (from the json - hw3data.json file) and each bar will represent each term (number of items in the json file).
+
+Present a tooltip when the user moves the mouse over each bar like what is being shown below (showing the mouse over the third bar which then shows the term and the number of students for that specific term).
+<br><br>
+
+## Screenshot:
